@@ -1,0 +1,9 @@
+C:\ProcessDesigner\Valtech_Test\Framework\bin\Debug\Framework.dll
+C:\ProcessDesigner\Valtech_Test\Framework\bin\Debug\Framework.pdb
+C:\ProcessDesigner\Valtech_Test\Framework\bin\Debug\WebDriver.dll
+C:\ProcessDesigner\Valtech_Test\Framework\bin\Debug\WebDriver.Support.dll
+C:\ProcessDesigner\Valtech_Test\Framework\bin\Debug\WebDriver.xml
+C:\ProcessDesigner\Valtech_Test\Framework\bin\Debug\WebDriver.Support.xml
+C:\ProcessDesigner\Valtech_Test\Framework\obj\Debug\Framework.dll
+C:\ProcessDesigner\Valtech_Test\Framework\obj\Debug\Framework.pdb
+C:\ProcessDesigner\Valtech_Test\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
